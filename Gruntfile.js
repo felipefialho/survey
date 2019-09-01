@@ -6,7 +6,7 @@ module.exports = function(grunt) {
   // Paths
   var PathConfig = {
     dev: 'dev/',
-    dist: ''
+    dist: 'dist/'
   };
 
   // Set scripts
